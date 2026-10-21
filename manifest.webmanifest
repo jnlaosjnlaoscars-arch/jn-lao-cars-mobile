@@ -6,5 +6,5 @@
   "display": "standalone",
   "background_color": "#10253a",
   "theme_color": "#10253a",
-  "icons": [{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+  "icons": [{"src":"https://raw.githubusercontent.com/jnlaosjnlaoscars-arch/jn-lao-cars-inventory/main/714423677_1410535111093249_29523217133627181_n-Photoroom.png","sizes":"any","type":"image/png","purpose":"any maskable"}]
 }
