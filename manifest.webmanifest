@@ -1,0 +1,10 @@
+{
+  "name": "JN LAO CARS",
+  "short_name": "JN Cars",
+  "description": "คลังรถ JN LAO CARS สำหรับใช้งานบนมือถือ",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#10253a",
+  "theme_color": "#10253a",
+  "icons": [{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
