@@ -17,14 +17,13 @@
   <main class="card">
     <div class="mark">🚘</div>
     <h1>JN LAO CARS</h1>
-    <p><span class="dot"></span>กำลังเปิดคลังรถขององค์กร…</p>
+    <p><span class="dot"></span>ติดตั้งหน้านี้เป็นแอป แล้วเปิดคลังรถได้ทันที</p>
     <a id="open" href="https://jnlaosjnlaoscars-arch.github.io/jn-lao-cars-inventory/?app=mobile">เปิดคลังรถ</a>
   </main>
   <script>
     if ('serviceWorker' in navigator) navigator.serviceWorker.register('./service-worker.js');
     // A separate installable shell. The inventory remains on its original HTTPS
     // address, preserving its existing Supabase login and security rules.
-    setTimeout(() => location.replace(document.getElementById('open').href), 850);
   </script>
 </body>
 </html>
