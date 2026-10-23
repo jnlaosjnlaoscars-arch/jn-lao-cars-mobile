@@ -1,7 +1,7 @@
 {
   "name": "JN LAO CARS",
   "short_name": "JN Cars",
-  "description": "คลังรถ JN LAO CARS สำหรับใช้งานบนมือถือ",
+  "description": "ຄັງລົດ JN LAO CARS ສຳລັບໃຊ້ງານເທິງມືຖື",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#10253a",
